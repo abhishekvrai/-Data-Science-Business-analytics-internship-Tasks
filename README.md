@@ -9,7 +9,7 @@ Prediction using Supervised ML (Level - Beginner)
 
 ● You can use R, Python, SAS Enterprise Miner or any other tool
 
-● Data can be found at http://bit.ly/w-dat
+● Data is available at: http://bit.ly/w-dat
 
 TASK-2
 
